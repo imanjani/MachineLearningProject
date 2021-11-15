@@ -1,8 +1,8 @@
 # Machine Learning Projects
 
 
-#### 1 - Movie Recommendations with SVD Matrix Factorisation
-  - SVD Matrix Factorisation
+#### 1 - Recommendation Engine with Python (Movie Recommendations)
+  - SVD Matrix Factorization
   This method involves embedding movies in a vector space by using a stochastic estimation of Matrix Factorisation. The movie embedding can be considered a representation of the movie features and we can make recommendations using a similarity metric.
   
   - Content-Based and Collaborative Filtering (CF)
