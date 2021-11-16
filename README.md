@@ -21,6 +21,6 @@ Using Model-Stacking to boost model performance and accuracy
 <img src="/Stacking Model/Data/1.jpeg" width="60%" >
 
 
+---
 
-#### 1 - Introduction
-#### 1 - Introduction
+#### 3 - New Project
