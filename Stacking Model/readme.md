@@ -10,6 +10,8 @@ Model stacking is a Data Science ensemble method, which relies on the "wisdom of
 Model Stacking is analogous with real-world examples such as building successful human teams in business, science, sports etc. If all the members of the team were really good at the exact same task, then the team would crush any challenge that requires this one specific skill, but it would fail miserably when it comes to handling complex real-life problems that require a plethora of diverse skills, mindsets, and approaches. I do not know much about American football, but even with my limited knowledge, it is pretty obvious to me that you cannot win a football game with a team that consists of only quarterbacks, even if those quarterbacks are the best in the league. That is why optimal sports teams and successful business units consist of a diverse group of individuals with a wider range of strengths and weaknesses.
 
 
+Stacking is the process of using different machine learning models one after another, where you add the predictions from each model to make a new feature.Model stacking should always be accompanied by cross validation to reduce overfitting models to training data. This is common practice.
+
 <p float="left">
   <img src="Data/1.jpeg" width="99%" />
 </p>
