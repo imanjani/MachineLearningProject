@@ -11,14 +11,10 @@
    Here, I will implement Model-Based CF by using singular value decomposition (SVD) and Memory-Based CF by computing cosine similarity.
 
 
-
-#### 2 - Predicting Google Stock Price with RNN model
-
+---
 
 
-
-
-#### 3 - Stacking Model
+#### 2 - Stacking Model
 
 Using Model-Stacking to boost model performance and accuracy
 
