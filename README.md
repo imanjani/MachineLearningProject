@@ -14,13 +14,15 @@
 
 #### 2 - Predicting Google Stock Price with RNN model
 
-![Price](/stockPricePrediction.jpg)
 
 
 
-#### 3 - Handwritten Digit Classification with CNN
 
-![Mnist](/mnist.png)
+#### 3 - Stacking Model
+
+Using Model-Stacking to boost model performance and accuracy
+
+<img src="/Stacking Model/Data/1.jpeg" width="60%" >
 
 
 
