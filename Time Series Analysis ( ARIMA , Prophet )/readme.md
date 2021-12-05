@@ -26,3 +26,9 @@ Hence, the trained model for our research has the lowest Akaike Information Crit
 
 
 The datan.csv contains the bitcoin price table (closing price in USD) for a priod od 3 years,
+
+---
+
+# SARIMAX model 
+### Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors
+Most of Time-Series models consider past values of a dataset and past errors to determine future trends, seasonality and forecasted values. We look now to models that encompass these non-seasonal (p,d,q) and seasonal (P,D,Q,m) factors, but introduce the idea that external factors (environmental, economic, etc.) can also influence a time series, and be used in forecasting.
