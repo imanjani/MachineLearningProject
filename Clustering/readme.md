@@ -1,5 +1,5 @@
 
-####   Categories of clustering algorithms
+## Categories of clustering algorithms
 
 The algorithms we use fall into three different categories:
 
