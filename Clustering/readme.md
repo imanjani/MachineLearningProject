@@ -7,7 +7,7 @@ The algorithms we use fall into three different categories:
 * Density-based clustering
 * Hierarchical clustering
 
-The algorithms used in the Notebook are as follows:
+Some of the algorithms used in the Notebook are as follows:
 
 | Category | Algorithm | Description |
 | --- | --- | --- |
