@@ -58,4 +58,4 @@ Using Model-Stacking to boost model performance and accuracy
 #### 4 - Game Promotion offer and Transition Matrix with Markov Chain model
 
 
- <img src="/data/Markov_chain.png" width="60%" >
+ <img src="/data/Markov_Model.jpg" width="60%" >
